@@ -1,0 +1,19 @@
+\hypertarget{ConnectServer_8cpp}{}\section{/home/lmaignan/\+P\+S\+U\+\_\+zappy\+\_\+2017/graphique/src/\+Connect\+Server.cpp File Reference}
+\label{ConnectServer_8cpp}\index{/home/lmaignan/\+P\+S\+U\+\_\+zappy\+\_\+2017/graphique/src/\+Connect\+Server.\+cpp@{/home/lmaignan/\+P\+S\+U\+\_\+zappy\+\_\+2017/graphique/src/\+Connect\+Server.\+cpp}}
+
+
+méthodes qui lancent la connexion entre le client graphique et le serveur  
+
+
+{\ttfamily \#include \char`\"{}../include/\+Zappy\+Graphic.\+hpp\char`\"{}}\newline
+Include dependency graph for Connect\+Server.\+cpp\+:
+% FIG 0
+
+
+\subsection{Detailed Description}
+méthodes qui lancent la connexion entre le client graphique et le serveur 
+
+\begin{DoxyAuthor}{Author}
+lmaignan et mgayaud
+\end{DoxyAuthor}
+Fichier contenant les méthodes de la classe Connect\+Server qui affichent l\textquotesingle{}écran de connexion et effectuent la connexion au seveur 
