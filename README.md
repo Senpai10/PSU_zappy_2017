@@ -28,17 +28,17 @@ $ ./zappy_server -p port -x width -y height -n name1 name2 ... -c clientsNb -f f
 $ ./zappy_ai -p port -n name -h machine
 ```
 ##### Server
-port is the port number
-width is the width of the world
-height is the height of the world
-nameX is the name of the team X
-clientsNb is the number of authorized clients per team
-freq is the reciprocal of time unit for execution of actions
+- port is the port number
+- width is the width of the world
+- height is the height of the world
+- nameX is the name of the team X
+- clientsNb is the number of authorized clients per team
+- freq is the reciprocal of time unit for execution of actions
 
 ##### AI
-port is the port number
-name is the name of the team
-machine is the name of the machine; localhost by default
+- port is the port number
+- name is the name of the team
+- machine is the name of the machine; localhost by default
 
 Unfortunately, the program does not work 100% due to lack of time, the different parts don't work together
 
